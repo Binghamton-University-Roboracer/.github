@@ -1,7 +1,7 @@
-# Binghamton University ECD507 - Roboracer project for autonomous ML based RC cars
+# Binghamton University ECD507 - Roboracer project for autonomous ML-based RC cars
 ## Project Members:
   - Project Lead: Dylan Digiacomo (EE)
-  - Finance Manager: Rishabh Hedge (CoE)
+  - Finance Manager: Rishabh Hegde (CoE)
   - Hardware Lead: Andrew Meccariello (EE)
   - Software Lead: Charles Hodgins (CoE)
 ## Project Advisors:
@@ -20,6 +20,6 @@ a track autonomously, avoid obstacles, and recognize signs. The stretch goals fo
 include lane adjustment and the car reacting appropriately based on sign directives. The ML
 platform is implemented on the NVIDIA Jetson Orin Nano (JON) which controls the car’s drive
 system based on receiving data from an Inertial Movement Unit (IMU), a Lidar sensor, and a
-camera. The ML model is trained using the different sensors. The ML platform is built usi
+camera. The ML model is trained using the different sensors. The ML platform is built using
 Robot Operating System 2 (ROS2) along with different frameworks such as Open Camera Visi
 (OpenCV), and Pytorch.
